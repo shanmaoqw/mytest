@@ -6,6 +6,6 @@ import com.kakarote.crm9.common.constant.BaseConstant;
 
 public class Application {
     public static void main(String[] args) {
-        xxxxxxxxxxxxxxxxxx
+        aaaaaaaaaaaaaaaa
     }
 }

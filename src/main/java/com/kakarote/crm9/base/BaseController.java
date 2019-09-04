@@ -13,7 +13,7 @@ public class BaseController extends Controller {
 
     @Override
     public void renderJson(String jsonText) {
-        render(new HhgwRenderJson(jsonText));
+       bbbbbbbbbb
     }
 
 }
